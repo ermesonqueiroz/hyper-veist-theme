@@ -1,0 +1,32 @@
+{
+  "name": "hyper-veist-theme",
+  "version": "1.0.0",
+  "description": "Port veist theme to Hyper.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Veist",
+    "Vercel",
+    "Color Scheme",
+    "Hyper",
+    "Hyper Theme"
+  ],
+  "author": "Ermeson Sampaio <ermeson.s.queiroz@gmail.com>",
+  "maintainers": [
+    "Ermeson Sampaio <ermeson.s.queiroz@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ermesonqueiroz/hyper-veist-theme/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ermesonqueiroz/hyper-veist-theme/"
+  },
+  "bugs": {
+    "url": "https://github.com/ermesonqueiroz/hyper-veist-theme/",
+    "email": "ermeson.s.queiroz@gmail.com"
+  }
+
